@@ -1,5 +1,4 @@
 import React from 'react';
-import { FaBriefcase, FaChartBar, FaDollarSign, FaBuilding } from 'react-icons/fa';
 import { Link  } from 'react-router-dom';
 
 interface MenuBarProps {
