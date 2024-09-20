@@ -12,7 +12,7 @@ console.log(showMenu)
   return (
    
     <div
-     className={`menu-bar flex ml-8  fixed top-24 z-[1000] left-[-100%]  w-[100%] bg-white  rounded-[10px] h-[100vh] ${showMenu ? "show left-[0]":""} `} >
+     className={`menu-bar flex ml-8  fixed top-24 z-[1000] left-[-200%]  w-[100vw] bg-white  rounded-[10px] h-[100vh] ${showMenu ? "show left-[0%]":""} `} >
      <div className="flex flex-col mt-5 w-[20%] ">
         <div className='flex items-center'>
           <img src="ser.svg" alt="services-icon" className='w-6 h-6 mr-12' />
