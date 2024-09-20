@@ -5,6 +5,8 @@
 This project implements the desktop version of the **ImmolQ Widget** using React. The design is based on the provided Figma design, and the primary focus is on building a responsive
  and interactive UI for desktop users. The project showcases various React components, dropdown effects, and navigation, adhering closely to the Figma design specifications.
 
+The site is live at: [https://66ed5d21b962d547638f8865--arifimmoiq.netlify.app/](https://66ed5d21b962d547638f8865--arifimmoiq.netlify.app)
+
 ## Table of Contents
 
 - [Features](#features)
